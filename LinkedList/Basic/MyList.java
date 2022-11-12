@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.Basic;
 
 public class MyList {
     Node headNode;
